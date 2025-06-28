@@ -75,8 +75,8 @@
 
 ### STREAM MODE
 
-1. 「配信モード」セルで `video_id` と `important_words` を設定
-2. ライブチャットを監視し、キーワードに応じたAI応答を自動実行
+1. 「配信モード」セルで `video_id` と `important_words`（AIが反応するキーワードのリスト。空白でも構いません。反応させたい単語があれば追加してください）を設定
+2. 配信モードの際は、OBSを使って字幕表示をYouTube配信画面に重ね合わせ、VTuberモデルはVTube Studioなどで動かせば問題ありません。
 
 ## LICENSE
 
