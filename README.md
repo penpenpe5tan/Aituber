@@ -1,5 +1,4 @@
-# YOUTUBE LIVE CHATBOT SPECIFICATION
-
+# YOUTUBE LIVE CHATBOT
 ## OVERVIEW
 
 本プロジェクトは、Google Colab上で動作するYouTubeライブチャットボットのプロトタイプです。以下を統合しています：
